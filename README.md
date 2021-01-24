@@ -59,13 +59,65 @@
     + 배열을 사용해서 한번
     + ListNode를 사용해서 한번.
 
-#### WEEK 05 :: 클래스
-#### WEEK 06 :: 상속
-#### WEEK 07 :: 패키지
-#### WEEK 08 :: 인터페이스
-#### WEEK 09 :: 예외 처리
-#### WEEK 10 :: 멀티쓰레드 프로그래밍
-#### WEEK 11 :: Enum
+#### WEEK 05 :: [클래스](https://blog.naver.com/hsm622/222175480708)
+- 클래스 정의하는 방법
+- 객체 만드는 방법 (new 키워드 이해하기)
+- 메소드 정의하는 방법
+- 생성자 정의하는 방법
+- this 키워드 이해하기
++ 과제 (Optional)
+  + int 값을 가지고 있는 이진 트리를 나타내는 Node 라는 클래스를 정의하세요.
+  +  int value, Node left, right를 가지고 있어야 합니다.
+  +  BinrayTree라는 클래스를 정의하고 주어진 노드를 기준으로 출력하는 bfs(Node node)와 dfs(Node node) 메소드를 구현하세요.
+  +  DFS는 왼쪽, 루트, 오른쪽 순으로 순회하세요.
+
+#### WEEK 06 :: [상속](https://blog.naver.com/hsm622/222182960932)
+- 자바 상속의 특징
+- super 키워드
+- 메소드 오버라이딩
+- 다이나믹 메소드 디스패치 (Dynamic Method Dispatch)
+- 추상 클래스
+- final 키워드
+- Object 클래스
+
+#### WEEK 07 :: [패키지](https://blog.naver.com/hsm622/222192979075)
+- package 키워드
+- import 키워드
+- 클래스패스
+- CLASSPATH 환경변수
+- -classpath 옵션
+- 접근지시자
+
+#### WEEK 08 :: [인터페이스](https://blog.naver.com/hsm622/222201314752)
+- 인터페이스 정의하는 방법
+- 인터페이스 구현하는 방법
+- 인터페이스 레퍼런스를 통해 구현체를 사용하는 방법
+- 인터페이스 상속
+- 인터페이스의 기본 메소드 (Default Method), 자바 8
+- 인터페이스의 static 메소드, 자바 8
+- 인터페이스의 private 메소드, 자바 9
+
+#### WEEK 09 :: [예외 처리](https://blog.naver.com/hsm622/222208809905)
+- 자바에서 예외 처리 방법 (try, catch, throw, throws, finally)
+- 자바가 제공하는 예외 계층 구조
+- Exception과 Error의 차이는?
+- RuntimeException과 RE가 아닌 것의 차이는?
+- 커스텀한 예외 만드는 방법
+
+#### WEEK 10 :: [멀티쓰레드 프로그래밍](https://blog.naver.com/hsm622/222212364489)
+- Thread 클래스와 Runnable 인터페이스
+- 쓰레드의 상태
+- 쓰레드의 우선순위
+- Main 쓰레드
+- 동기화
+- 데드락
+
+#### WEEK 11 :: [Enum](https://blog.naver.com/hsm622/222218251749)
+- enum 정의하는 방법
+- enum이 제공하는 메소드 (values()와 valueOf())
+- java.lang.Enum
+- EnumSet
+
 #### WEEK 12 :: 애노테이션
 #### WEEK 13 :: I/O
 #### WEEK 14 :: 제네릭
