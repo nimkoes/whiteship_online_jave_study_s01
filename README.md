@@ -118,7 +118,7 @@
 - java.lang.Enum
 - EnumSet
 
-#### WEEK 12 :: 애노테이션
+#### WEEK 12 :: [애노테이션](https://blog.naver.com/hsm622/222226824623)
 - 애노테이션 정의하는 방법
 - @retention
 - @target
