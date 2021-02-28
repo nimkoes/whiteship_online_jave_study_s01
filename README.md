@@ -138,5 +138,12 @@
 - 제네릭 주요 개념(바운디드 타입, 와일드 카드)
 - Erasure
 
-#### WEEK 15 :: 람다식
+#### WEEK 15 :: [람다식](https://blog.naver.com/hsm622/222260183401)
+- 람다식 사용법
+- 함수형 인터페이스
+- Variable Capture
+- 메소드, 생성자 레퍼런스
+
+
+#### [후기](https://blog.naver.com/hsm622/222260194947)
 
