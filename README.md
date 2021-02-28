@@ -125,10 +125,18 @@
 - @documented
 - 애노테이션 프로세서
 
-#### WEEK 13 :: I/O
-#### WEEK 14 :: 제네릭
+#### WEEK 13 :: [I/O](https://blog.naver.com/hsm622/222248438826)
+- 스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O
+- InputStream과 OutputStream
+- Byte와 Character 스트림
+- 표준 스트림 (System.in, System.out, System.err)
+- 파일 읽고 쓰기
+
+#### WEEK 14 :: [제네릭](https://blog.naver.com/hsm622/222251602836)
+- 제네릭 사용법
+- 제네릭 메소드 만들기
+- 제네릭 주요 개념(바운디드 타입, 와일드 카드)
+- Erasure
+
 #### WEEK 15 :: 람다식
-#### WEEK 16 :: 문자열
-#### WEEK 17 :: 콜렉션
-#### WEEK 18 :: 스트림
 
