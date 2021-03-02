@@ -13,8 +13,8 @@ public class Exam_005 {
                 // final 명시한 경우 지역 변수로 복사
                 // String myFinalString_01
                 // String myFinalString_02
-//                System.out.println(myFinalString_01 + " :: " + myFinalString_02);
-//                System.out.println(myString_01 + " :: " + myString_02);
+                System.out.println(myFinalString_01 + " :: " + myFinalString_02);
+                System.out.println(myString_01 + " :: " + myString_02);
             }
         }
         
