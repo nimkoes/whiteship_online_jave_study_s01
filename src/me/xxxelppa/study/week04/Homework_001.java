@@ -10,7 +10,7 @@ public class Homework_001 {
     private static final int ISSUE_COUNT = 15;
     
     public static void main(String[] args) throws IOException {
-        GitHub github = new GitHubBuilder().withOAuthToken("cfacd7e9a84fa45a8fe98d7e5c30c21253fdbd3e").build();
+        GitHub github = new GitHubBuilder().withOAuthToken("").build();
         GHRepository repository = github.getRepository("nimkoes/live-study").getSource();
         GHIssue issue;
         GHIssueComment ghIssueComment;
