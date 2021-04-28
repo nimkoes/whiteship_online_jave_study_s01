@@ -1,5 +1,5 @@
-# ws_live_study
-### whiteship java live study example source repo
+
+## whiteship java live study example source repo
 
 #### WEEK 01 :: [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://hsm622.blog.me/222138523668)
 - JVM 이란 무엇인가
