@@ -1,7 +1,7 @@
   
 ## whiteship java live study example source repository
 
-#### WEEK 01 :: [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://hsm622.blog.me/222138523668)
+#### WEEK 01 :: [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://xxxelppa.tistory.com/194?category=858435)
 - JVM 이란 무엇인가
 - 컴파일 하는 방법
 - 실행하는 방법
@@ -10,7 +10,7 @@
 - JVM 구성요소
 - JDK 와 JRE의 차이
 
-#### WEEK 02 :: [자바 데이터 타입, 변수 그리고 배열](https://hsm622.blog.me/222144931396)
+#### WEEK 02 :: [자바 데이터 타입, 변수 그리고 배열](https://xxxelppa.tistory.com/195?category=858435)
 - 프리미티브 타입 종류와 값의 범위 그리고 기본 값
 - 프리미티브 타입과 레퍼런스 타입
 - 리터럴
@@ -20,7 +20,7 @@
 - 1차 및 2차 배열 선언하기
 - 타입 추론, var
 
-#### WEEK 03 :: [연산자](https://hsm622.blog.me/222150928707)
+#### WEEK 03 :: [연산자](https://xxxelppa.tistory.com/196?category=858435)
 - 산술 연산자
 - 비트 연산자
 - 관계 연산자
@@ -32,7 +32,7 @@
 - 연산자 우선 순위
 - (optional) Java 13. switch 연산자
 
-#### WEEK 04 :: [제어문](https://hsm622.blog.me/222159930944)
+#### WEEK 04 :: [제어문](https://xxxelppa.tistory.com/197?category=858435)
 - 선택문
 - 반복문
 + 과제
@@ -59,7 +59,7 @@
     + 배열을 사용해서 한번
     + ListNode를 사용해서 한번.
 
-#### WEEK 05 :: [클래스](https://blog.naver.com/hsm622/222175480708)
+#### WEEK 05 :: [클래스](https://xxxelppa.tistory.com/198?category=858435)
 - 클래스 정의하는 방법
 - 객체 만드는 방법 (new 키워드 이해하기)
 - 메소드 정의하는 방법
@@ -71,7 +71,7 @@
   +  BinrayTree라는 클래스를 정의하고 주어진 노드를 기준으로 출력하는 bfs(Node node)와 dfs(Node node) 메소드를 구현하세요.
   +  DFS는 왼쪽, 루트, 오른쪽 순으로 순회하세요.
 
-#### WEEK 06 :: [상속](https://blog.naver.com/hsm622/222182960932)
+#### WEEK 06 :: [상속](https://xxxelppa.tistory.com/199?category=858435)
 - 자바 상속의 특징
 - super 키워드
 - 메소드 오버라이딩
@@ -80,7 +80,7 @@
 - final 키워드
 - Object 클래스
 
-#### WEEK 07 :: [패키지](https://blog.naver.com/hsm622/222192979075)
+#### WEEK 07 :: [패키지](https://xxxelppa.tistory.com/200?category=858435)
 - package 키워드
 - import 키워드
 - 클래스패스
@@ -88,7 +88,7 @@
 - -classpath 옵션
 - 접근지시자
 
-#### WEEK 08 :: [인터페이스](https://blog.naver.com/hsm622/222201314752)
+#### WEEK 08 :: [인터페이스](https://xxxelppa.tistory.com/201?category=858435)
 - 인터페이스 정의하는 방법
 - 인터페이스 구현하는 방법
 - 인터페이스 레퍼런스를 통해 구현체를 사용하는 방법
@@ -97,14 +97,14 @@
 - 인터페이스의 static 메소드, 자바 8
 - 인터페이스의 private 메소드, 자바 9
 
-#### WEEK 09 :: [예외 처리](https://blog.naver.com/hsm622/222208809905)
+#### WEEK 09 :: [예외 처리](https://xxxelppa.tistory.com/202?category=858435)
 - 자바에서 예외 처리 방법 (try, catch, throw, throws, finally)
 - 자바가 제공하는 예외 계층 구조
 - Exception과 Error의 차이는?
 - RuntimeException과 RE가 아닌 것의 차이는?
 - 커스텀한 예외 만드는 방법
 
-#### WEEK 10 :: [멀티쓰레드 프로그래밍](https://blog.naver.com/hsm622/222212364489)
+#### WEEK 10 :: [멀티쓰레드 프로그래밍](https://xxxelppa.tistory.com/203?category=858435)
 - Thread 클래스와 Runnable 인터페이스
 - 쓰레드의 상태
 - 쓰레드의 우선순위
@@ -112,38 +112,38 @@
 - 동기화
 - 데드락
 
-#### WEEK 11 :: [Enum](https://blog.naver.com/hsm622/222218251749)
+#### WEEK 11 :: [Enum](https://xxxelppa.tistory.com/204?category=858435)
 - enum 정의하는 방법
 - enum이 제공하는 메소드 (values()와 valueOf())
 - java.lang.Enum
 - EnumSet
 
-#### WEEK 12 :: [애노테이션](https://blog.naver.com/hsm622/222226824623)
+#### WEEK 12 :: [애노테이션](https://xxxelppa.tistory.com/205?category=858435)
 - 애노테이션 정의하는 방법
 - @retention
 - @target
 - @documented
 - 애노테이션 프로세서
 
-#### WEEK 13 :: [I/O](https://blog.naver.com/hsm622/222248438826)
+#### WEEK 13 :: I/O
 - 스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O
 - InputStream과 OutputStream
 - Byte와 Character 스트림
 - 표준 스트림 (System.in, System.out, System.err)
 - 파일 읽고 쓰기
 
-#### WEEK 14 :: [제네릭](https://blog.naver.com/hsm622/222251602836)
+#### WEEK 14 :: [제네릭](https://xxxelppa.tistory.com/206?category=858435)
 - 제네릭 사용법
 - 제네릭 메소드 만들기
 - 제네릭 주요 개념(바운디드 타입, 와일드 카드)
 - Erasure
 
-#### WEEK 15 :: [람다식](https://blog.naver.com/hsm622/222260183401)
+#### WEEK 15 :: [람다식](https://xxxelppa.tistory.com/207?category=858435)
 - 람다식 사용법
 - 함수형 인터페이스
 - Variable Capture
 - 메소드, 생성자 레퍼런스
 
 
-#### [후기](https://blog.naver.com/hsm622/222260194947)
+#### [후기](https://nimkoes.github.io/study/2021/02/28/Java-Online-Live-Study-Season-1.html)
 
